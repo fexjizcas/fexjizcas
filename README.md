@@ -116,12 +116,6 @@ During my studies and my internship, I acquired the following knowledge and skil
             <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,firebase" /></a>
         </td>
     </tr>
-    <tr>
-        <td><strong>Used before</strong></td>
-        <td>
-            <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=oracle" /></a>
-        </td>
-    </tr>
 </table>
 
 ### ⌨ Terminal
@@ -138,7 +132,7 @@ During my studies and my internship, I acquired the following knowledge and skil
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/tu-enlace-de-linkedin-aqui)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/f%C3%A9lix-jim%C3%A9nez-castillo-a9aa9a336/)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/fexjizcas)
 
 <div align="center">
