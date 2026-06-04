@@ -134,6 +134,7 @@ During my studies and my internship, I acquired the following knowledge and skil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0483c7&color=005a8a)](https://www.linkedin.com/in/félix-jiménez-castillo-a9aa9a336)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=232323&color=1b1b1b)](https://github.com/fexjizcas)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=C5221F)](mailto:fexjizcas@gmail.com)
 
 <div align="center">
   Thanks for visiting my profile!<br/>
