@@ -4,13 +4,13 @@
 
 ## About me 👋
 
- - 👨‍🎓 Software Developer Student (DAM) in **Málaga, Spain**.
+ - 👨‍🎓 Software Developer (Técnico Superior DAM) in **Málaga, Spain**.
  - 🛡️ Former Software Developer & DevOps Trainee at **Hispasec Sistemas**.
  - 👨‍💻 Passionate about backend, infrastructure, and cybersecurity.
 
  ## 🎓 DAM (Multiplatform Application Development)
  
-Currently finishing my higher degree in Multiplatform Application Development (DAM). This hands-on program focuses on creating robust software solutions, from system architecture to end-user interfaces.
+I hold a Higher Degree in Multiplatform Application Development (DAM). This hands-on program focuses on creating robust software solutions, from system architecture to end-user interfaces.
 
 During my studies and my internship, I acquired the following knowledge and skills:
 
