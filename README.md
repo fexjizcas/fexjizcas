@@ -37,7 +37,7 @@ During my studies and my internship, I acquired the following knowledge and skil
     <tr>
         <td><strong>Learning</strong></td>
         <td>
-          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+          <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" /></a>
         </td>
     </tr>
 </table>
